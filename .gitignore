@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+build/
+.vs/
+NB65C02asm/obj/

@@ -1,0 +1,7 @@
+﻿{
+  "Files": [
+    "tester.asm",
+    "os_defines.asm",
+    "invader1.asm"
+  ]
+}
