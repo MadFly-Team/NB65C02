@@ -2,19 +2,20 @@
 
 A 65C02 macro assembler, full-screen TUI IDE and interactive debugger for **BBC Micro / Acorn DFS** development. Built with .NET 10 and [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) v2.
 
+<img width="800px" src="./images/screen1.jpg" alt="The main IDE screen" />
+<br><br>
+<img width="800px" src="./images/screen2.jpg" alt="The Debugger screen" />
+<br><br>
+<img width="800px" src="./images/screen3.jpg" alt="The Sprite editor screen" />
+<br><br>
+
 ## Current state
 
 The IDE has just be started. It's in it's ALPHA stage, basic functionality that allows creation of a program, creation of a SSD that allows auto running of program. As said, it's all in it's early stages, but should work.
 
 The project was developed with writing my own IDE to allow creation and development of software in 65C02. This IDE has an assembler built in, details are available in the readme. It also has a very simple debber that allow basic debugging of code - all system calls ignored with no register changes. There is also very basic sprite editor that allows sprites to be drawn and tested using characters.
 
-## Instructions
-
-Please branch from `develop`, do your changes etc and submit a pull request. 
-
 ---
-
-
 
 ## Features
 
