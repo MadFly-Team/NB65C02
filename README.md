@@ -2,11 +2,11 @@
 
 A 65C02 macro assembler, full-screen TUI IDE and interactive debugger for **BBC Micro / Acorn DFS** development. Built with .NET 10 and [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) v2.
 
-<img width="800px" src="./images/screen1.jpg" alt="The main IDE screen" />
+<img width="800px" src="./Images/screen1.jpg" alt="The main IDE screen" />
 <br><br>
-<img width="800px" src="./images/screen2.jpg" alt="The Debugger screen" />
+<img width="800px" src="./Images/screen2.jpg" alt="The Debugger screen" />
 <br><br>
-<img width="800px" src="./images/screen3.jpg" alt="The Sprite editor screen" />
+<img width="800px" src="./Images/screen3.jpg" alt="The Sprite editor screen" />
 <br><br>
 
 ## Current state
