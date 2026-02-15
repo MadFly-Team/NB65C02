@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NB65c02Asm": {
+      "commandName": "Project",
+      "commandLineArgs": "--ide neiltest.nbproj\r\n"
+    }
+  }
+}
