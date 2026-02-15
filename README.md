@@ -32,6 +32,7 @@ The project was developed with writing my own IDE to allow creation and developm
 
 ### Prerequisites
 
+- Visual Studio 2026 Insider Edition.
 - [.NET 10 SDK](https://dotnet.microsoft.com/download) or later
 - (Optional) [BeebEm](http://www.mkw.me.uk/beebem/) for Build & Run
 

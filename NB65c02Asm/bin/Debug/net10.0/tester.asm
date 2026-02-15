@@ -24,7 +24,7 @@ start:
 	JSR OSWRITE
 
     ; Mode number
-    LDA #1328				; BBC Master mode... for shadow memory
+    LDA #128				; BBC Master mode... for shadow memory
 	JSR OSWRITE
 	; draw invader sprite
 	LDA #12
